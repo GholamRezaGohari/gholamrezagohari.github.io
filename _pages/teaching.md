@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Materials for courses and workshops I taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
+display_categories: [Courses, Workshops]
+horizontal: false
 ---
 
-{% include courses.liquid %}
+{% include teaching.liquid %}
+

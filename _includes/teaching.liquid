@@ -1,0 +1,17 @@
+<div class="teaching">
+  {% assign categories = "Courses,Workshops" | split: "," %}
+
+  {% for category in categories %}
+    <a id="{{ category | strip }}" href=".#{{ category | strip }}">
+      <h2 class="category">{{ category | strip }}</h2>
+    </a>
+
+    {% assign items = site.teaching | where: "category", category | sort: "importance" %}
+
+    <div class="row row-cols-1 row-cols-md-2">
+      {% for item in items %}
+        {% include teaching_card.liquid item=item %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
