@@ -2,56 +2,46 @@
   type: map
   contents:
     - name: Full Name
-      value: Ruhollah Taghizadeh-Mehrjardi
+      value: Gholamreza Gohari
     - name: Date of Birth
       value: 1983
     - name: Languages
-      value: English, German, Farsi
+      value: English, Turkish, German, Farsi
 
 - title: Education
   type: time_table
   contents:
 
-    - title: PhD in Soil Science
-      institution: University of Tehran, Iran
-      year: 2012
+    - title: PhD in Horticulture
+      institution: University of Tabriz, Iran
+      year: 2014
       description:
-        - Machine learning applications for three-dimentional mapping of soil properties. 
-    - title: Master of Science in Soil Science
-      institution: University of Tehran, Iran
-      year: 2008
+        - Environmental Conditions on Apple Productions. 
+    - title: Master of Science in Horticulture
+      institution: University of Tabriz, Iran
+      year: 2010
       items:
-        - Soil quality changes due to land degradation.
+        - Floral Ontogeny in Grapevine.
  
 
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist
+    - title: Scientist
       institution: Yara International - Germany
-      year: Since Nov 2023
+      year: Since May 2024
       description:
-        - Utilize machine learning and statistical techniques to support data-driven solutions..
-    - title: Humboldt Research Fellow
-      institution: University of Tuebingen - Germany
-      year: 2017-2023
+        - R&D Product Development.
+    - title: Visiting Professor
+      institution: Cyprus University of Technology - Cyprus
+      year: 2022-2024
       description:
-        -  Leveraged machine learning and statistical modelling to uncover patterns in environmental data.
-    - title: Assistant Professor
-      institution: Ardakan University - Iran
-      year: 2013-2017
+        -  Research and Teaching in Plant Priming Technology.
+    - title: Associate Professor
+      institution: University of Maragheh - Iran
+      year: 2014-2022
       description:
-        - Led research operations and applied machine learning to address arid-region challenges.
-    - title: Postdoc Researcher
-      institution: South Dakota State University - USA
-      year: 2016- 4 months
-      description: 
-        -  Applied machine learning and statistical modelling to predict soil carbon stock.
-    - title: Visiting researcher
-      institution: Sydney Institute of Agriculture - Australia
-      year: 2012- 6 months
-      description: 
-        - Machine learning for mapping soil properties.
+        - Research and Teaching in Horticultural Science.
 
 
 
