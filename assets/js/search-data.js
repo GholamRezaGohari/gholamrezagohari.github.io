@@ -506,49 +506,42 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=IDHEr08AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=2lANpSAAAAAJ", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Ruhollah-Taghizadeh-2/", "_blank");
+          window.open("https://www.researchgate.net/profile/Gholamreza-Gohari/", "_blank");
         },
       },{
         id: 'social-publons',
         title: 'Publons',
         section: 'Socials',
         handler: () => {
-          window.open("https://publons.com/a/H-3682-2013/", "_blank");
+          window.open("https://publons.com/a/AAG-6835-2021/", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-4620-6624", "_blank");
+          window.open("https://orcid.org/0000-0002-1625-5978", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/RuhollahTaghizadeh", "_blank");
+          window.open("https://github.com/GholamRezaGohari", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/ruhollahtaghizadeh", "_blank");
-        },
-      },{
-        id: 'social-youtube',
-        title: 'YouTube',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://youtube.com/@RuhollahTaghizadeh", "_blank");
+          window.open("https://www.linkedin.com/in/gholamreza-gohari-100b81a6", "_blank");
         },
       },{
       id: 'light-theme',
